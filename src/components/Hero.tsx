@@ -25,7 +25,7 @@ export default function Hero() {
                 srcSet="./images/image-hero-tablet.webp"
               />
               <img
-                className="tablet:absolute desktop:right-[-29rem] desktop:top-[-20rem] tablet:right-[-18rem] tablet:top-[-9rem]"
+                className="tablet:absolute desktop:right-[-30rem] desktop:top-[-20rem] tablet:right-[-18rem] tablet:top-[-9rem]"
                 src="./images/image-hero-mobile.webp"
                 alt="Woman drinkink coffee around a handful of statistic numbers about course hours and members"
               />
