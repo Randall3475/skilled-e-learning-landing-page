@@ -1,5 +1,5 @@
 type ButtonProps = {
-  type?: string;
+  type?: any;
   text: string;
 };
 
