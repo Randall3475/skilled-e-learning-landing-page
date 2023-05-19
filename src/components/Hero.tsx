@@ -3,7 +3,7 @@ export default function Hero() {
   return (
     <>
       <section>
-        <div class="container mx-auto desktop:pt-[160px] tablet:pt-[100px] relative tablet:flex desktop:px-4 tablet:px-[39px] mt-[68px] px-4">
+        <div className="container mx-auto desktop:pt-[160px] tablet:pt-[100px] relative tablet:flex desktop:px-4 tablet:px-[39px] mt-[68px] px-4">
           <div className="desktop:max-w-[457px] tablet:max-w-[398px]">
             <h1 className="text-pr-dark-purple font-extrabold desktop:mb-[29px] desktop:text-[56px] desktop:leading-[71px] leading-[50px] tablet:mb-[25px] text-[40px] mb-[26px] ">
               Maximize skill, minimize budget
