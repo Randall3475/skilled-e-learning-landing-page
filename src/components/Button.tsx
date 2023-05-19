@@ -1,10 +1,10 @@
 type ButtonProps = {
-  type: string;
+  type?: string;
   text: string;
 };
 
 export default function Button({ type, text }: ButtonProps) {
-  function renderStyle(type: string) {
+  function renderStyle(type: any) {
     switch (type) {
       case 'style-2':
         return 'bg-gradient-to-b from-pr-gradient-first to-pr-gradient-second py-[19px] hover:opacity-50';
