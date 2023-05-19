@@ -2,7 +2,7 @@ export default function Features() {
   return (
     <>
       <section className="features-background desktop:pb-[232px] desktop:pt-[183px] tablet:pb-[86px] desktop:px-4 tablet:px-[39px] tablet:pt-[200px] px-4 pb-[80px]">
-        <div className="container mx-auto desktop:gap-x-[30px] desktop:gap-y-[56px] tablet:gap-y-16 tablet:gap-x-[10px] grid desktop:grid-cols-3 tablet:grid-cols-2 gap-y-16">
+        <div className="container mx-auto desktop:gap-x-[30px] desktop:gap-y-[86px] tablet:gap-y-16 tablet:gap-x-[10px] grid desktop:grid-cols-3 tablet:grid-cols-2 gap-y-16">
           <div className="bg-gradient-to-b from-pr-gradient-first to-pr-gradient-second rounded-[15px]">
             <h2 className="font-extrabold text-[32px] leading-[40px] text-white tablet:px-8 tablet:pt-16 px-[28px] pt-[24px] pb-[32px]">
               Check out our most popular courses!
